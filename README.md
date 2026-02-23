@@ -11,7 +11,7 @@
 
 > Neurocomputing 2026
 
-![demo_vid](assets\graphic_abstruct_pic.png)
+![demo_vid](assets/graphic_abstruct_pic.png)
 
 ## Brewing🍺, code coming soon.
 ## Citation
